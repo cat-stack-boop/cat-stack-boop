@@ -6,6 +6,6 @@ A junior dev / tech recruiter who finds joy in developing web apps for marginali
 
 
 🔭 Currently working on opensource JS projects
-🌱 Learning React + Express/Node 
+🌱 React + Express/Node 
 
 📫 How to reach me: <a href="https://www.linkedin.com/in/lloydhalltowers/">Linkedin</a>
