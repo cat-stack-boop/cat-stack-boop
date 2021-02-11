@@ -6,7 +6,7 @@ A junior dev / tech recruiter who finds joy in developing web apps for marginali
 
 
 🔭 Currently working on opensource JS projects
-🌱 React + Express/Node
+🌱 React + Express/Node, AWS, GraphQL
 
  ⚡Tech highlights: Part of the winning team in the Telstra Health Hackathon #H4DH (Nov 2020)
 
